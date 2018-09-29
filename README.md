@@ -1,4 +1,4 @@
-# Deputy Development Test
+# Deputy Challenge
 
 This project was written in Node 8.5. To start first run ```npm install```.
 
